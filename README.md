@@ -1,4 +1,4 @@
-[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3731410&assignment_repo_type=AssignmentRepo)
+[![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=3655926&assignment_repo_type=AssignmentRepo)
 # Створення класів
 
 Це друга лабораторна робота в нашому курсі з ООП, в ході якої ви маєте отримати навички зі створення класів та тестування їх працездатності. Робота дуже маленька та складається з двох завдань.
@@ -37,6 +37,9 @@
 ![](https://github.com/ppc-ntu-khpi/Class-Starter/raw/main/images/GetterAndSetter.png)
   * **використати ці методи** в методі в методі ````main```` класу````CustomerTest````
   * зробити та зберегти (тека **Solution**) у файл ````advanced.png```` **скріншот** результатів роботи програми, та модифікувати файл ````README.md````відповідним чином
+# Виконання
+![](https://github.com/ppc-ntu-khpi/35---classes-and-modifiers-SydorenkoVolodymyr/tree/main/Solution/Исполнение.png)
+
 
 
 
